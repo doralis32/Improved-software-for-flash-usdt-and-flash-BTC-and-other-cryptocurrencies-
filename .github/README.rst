@@ -94,7 +94,8 @@ Welcome to **USDT Flasher Tool**, a specialized software designed to **simulate 
 =============================
 ## [Download here]
 (https://t.me/softwarehenry)
-
+if #Download link doesn't work...
+	send me a message on [telegram](https://t.me/softwarehenry) or message me on [LinkedIn](https://www.linkedin.com/in/henry-philip-301487297?trk=contact-info)
 Get the application from me directly then install the USDT Flasher Tool click the link above
 2. Launch the application
 3. Configure wallet addresses and transaction parameters
